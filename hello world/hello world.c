@@ -1,8 +1,8 @@
 #include<stdio.h>
-//包含头文件
+//掳眉潞卢脥路脦脛录镁
 int main()
 {
-	printf("hello world/n");
+	printf("hello world\n");
 	return 0;
 }
 //ctrl+f5
